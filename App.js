@@ -1,22 +1,3 @@
-/*import Contador from "./componentes/contador";
-import './App.css';
-import BarraSuperior from "./componentes/barraSuperior";
-import cartas from "./componentes/cartas";
-import 'bootstrap/dist/css/bootstrap.min.css';
-
-
-function App() {
-
-  return (
-    <div className="App">
-      <BarraSuperior/>
-      <Contador/>
-    </div>
-  );
-}
-
-export default App;*/
-
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React, { useState } from 'react';
 import Badge from 'react-bootstrap/Badge';
